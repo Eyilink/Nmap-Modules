@@ -50,7 +50,7 @@ Args del script:
 
 author = "Generado con Claude"
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
-categories = {"discovery", "safe", "external"}
+categories = {"discovery", "safe", "default", "external"}
 
 local SITEMAP_URL = "https://hacktricks.wiki/en/sitemap.xml"
 
